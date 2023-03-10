@@ -1,0 +1,15 @@
+table,tr,th,td{
+    border:1px solid black;
+    border-collapse: collapse;
+    text-align: center;
+    margin: 70px;
+    width:750px;
+    padding:20px;
+}
+th{
+    font-weight:400;
+}
+table{
+    background-position:cover;
+    background-repeat: no-repeat;
+}

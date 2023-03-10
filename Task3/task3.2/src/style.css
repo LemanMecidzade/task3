@@ -1,0 +1,6 @@
+table,tr,th,td{
+    border:1px solid black;
+    width:800px;
+    margin:70px;
+    padding:10px;
+}
